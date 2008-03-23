@@ -1,7 +1,7 @@
 using System;
 using System.Collections.Generic;
 using System.Xml;
-
+//test
 namespace WebFeed.Atom10 {
   public abstract class AtomBaseElement {
     private string _xmlBase;
